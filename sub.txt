@@ -1,21 +1,23 @@
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.146:443?security=tls&encryption=none&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.ru#%F0%9F%87%A9%F0%9F%87%AA
-
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.244:443?security=tls&encryption=none&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.ru#%F0%9F%87%A9%F0%9F%87%AA
 
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.140:443?security=tls&encryption=none&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.ru#%F0%9F%87%A9%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#%F0%9F%87%A9%F0%9F%87%AA
 
-vless://e258977b-e413-4718-a3af-02d75492c349@69.84.182.49:2096?path=%2F&security=tls&encryption=none&host=jp.aniua.qzz.io&type=ws&sni=jp.aniua.qzz.io#%F0%9F%87%A9%F0%9F%87%AA
+vless://21f1af13-f6e9-4483-8a17-a521a665b335@germany.samanidempire.org:443?path=%2Freteweef&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=germany.samanidempire.org&fp=chrome&type=ws#%F0%9F%87%A9%F0%9F%87%AA
 
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.243:443?security=tls&encryption=none&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%A9%F0%9F%87%AA
+vmess://eyJhZGQiOiJkZTUudGFza2Zsb3dodWIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNhNThiMTY1LTBmN2QtNDlhYS05ZmFlLWEwMTdlOGEwZjg4NCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA1MyIsInBzIjoi8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@37.49.225.189:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%B3%F0%9F%87%B1
+ss://5f4e864a-3c52-4a63-a870-a935965ed966@185.143.232.201:80?path=%2F&security=none&encryption=none&host=down.speedtell.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA
 
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@37.49.225.189:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.ru#%F0%9F%87%B3%F0%9F%87%B1
+vless://9ca41eeb-4b30-4271-a123-22021b1230d0@104.17.121.71:443?mode=auto&path=%2FTelegram-Zedmodeon&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mano.tll-far.ir&fp=chrome&type=xhttp&sni=mano.tll-far.ir#%F0%9F%87%A9%F0%9F%87%AA
 
-vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
+vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
 
-vless://bd31a135-8511-421d-a6b7-45937ef59e88@95.216.209.22:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
+vless://f5a25ee5-ff24-41b0-80e8-ccafdc866614@193.233.23.121:40611?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
 
-vless://e0b4566b-3333-4c50-9381-ba3570bee83f@95.182.83.251:2082?path=%2FOninOShop&security=none&encryption=none&host=95.182.83.251&type=ws#%F0%9F%87%B7%F0%9F%87%BA
+trojan://BxceQaOe@18.166.59.84:7484?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC
 
-vmess://eyJhZGQiOiIxMzAuOTQuMTAxLjM1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA3YTYwZjE5LWI3MDctNGVlOC1hNTYzLTIxYzIzMWMxNjIxOSIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpIiwicG9ydCI6IjUxMzg3IiwicHMiOiLwn4eo8J+HsyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:2663?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRW5aZWRwMm1rVGJUMXFD@4.168.201.246:443#%F0%9F%87%BF%F0%9F%87%A6
+
+vmess://eyJhZGQiOiI1MS4xOTUuMjM1LjcxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU5ZTI4Zjc4LWMzMWItNDYxMy05ZDlmLTFlNjczMmEzMWY0NiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTIiLCJwcyI6IvCfh6zwn4enIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
